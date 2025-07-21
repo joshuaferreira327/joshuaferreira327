@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi, I’m Joshua Ferreira — Aspiring Data Scientist
+# 👋🏼 Hi, I’m Joshua Ferreira — Aspiring Data Scientist
 
 - 🎓 Recent graduate of TripleTen’s intensive 8‑month Data Science bootcamp
 - 💻 Passionate about transforming raw data into business insights
