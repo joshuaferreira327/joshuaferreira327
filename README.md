@@ -51,7 +51,7 @@
 **Objective:** Train machine learning models to detect sentiment in IMDb reviews (positive/negative).  
 **Approach:** Tokenized and vectorized reviews using TF-IDF, applied logistic regression and Naive Bayes, tuned hyperparameters, and evaluated F1-score.  
 **Result:** Achieved F1-score > 0.85, demonstrating effective binary sentiment classification.  
-🔗 [Repo](https://github.com/joshuaferreira327/movie-review-sentiment)
+🔗 [Repo](https://github.com/joshuaferreira327/text-sentiment-classification)
 
 ---
 
