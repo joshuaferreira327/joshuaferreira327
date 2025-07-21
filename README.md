@@ -27,7 +27,7 @@
 **Approach:** Cleaned data, engineered features (platform, genre, reviews), trained LightGBM models, validated using time-series methods.  
 **Result:** Developed models that help forecast 2017 sales to inform marketing strategies.  
 **Demo:** Thumbnail and summary available on LinkedIn and GitHub Featured.  
-🔗 [Repo](https://github.com/joshuaferreira327/video-game-sales)
+🔗 [Repo](https://github.com/joshuaferreira327/video-game-sales-forecasting)
 
 ---
 
@@ -35,7 +35,7 @@
 **Objective:** Optimize gold recovery rates using ore processing data.  
 **Approach:** Preprocessed data, calculated recovery accuracy, screened anomalies, and trained regression models optimizing sMAPE.  
 **Result:** Achieved improved model accuracy; insights provided for process optimization.  
-🔗 [Repo](https://github.com/joshuaferreira327/gold-recovery)
+🔗 [Repo](https://github.com/joshuaferreira327/gold-recovery-optimization)
 
 ---
 
