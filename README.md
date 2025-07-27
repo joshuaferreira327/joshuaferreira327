@@ -59,5 +59,4 @@
 
 I'm always open to networking, collaboration, or opportunities in data science.  
 📧 joshuaferreira327@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/joshua-ferreira)  
-🐙 [GitHub](https://github.com/joshuaferreira327)
+🔗 [LinkedIn](https://www.linkedin.com/in/joshua-ferreira)
