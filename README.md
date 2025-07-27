@@ -58,6 +58,6 @@
 ## 📬 Get in Touch
 
 I'm always open to networking, collaboration, or opportunities in data science.  
-📧 Email: joshuaferreira327@gmail.com  
+📧 joshuaferreira327@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-ferreira)  
 🐙 [GitHub](https://github.com/joshuaferreira327)
